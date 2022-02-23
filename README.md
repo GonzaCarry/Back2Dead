@@ -1,3 +1,4 @@
 # Back2Dead
 
-Developed with Unreal Engine 4
+Documento:
+https://docs.google.com/document/d/1QoZ3GrKrhEOzUCMAjE8-erYgumAIjLniduxuPj6nTyw/edit
